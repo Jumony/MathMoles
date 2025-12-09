@@ -27,7 +27,7 @@ Math Moles is an edutainment game where players solve math equations to whack mo
 - **Unity 6000.2.10f1**
 
 ### **Steps**
-1. Clone the repository https://github.com/GJ-Repo/SWEGroup10 into your desired directory
+1. Clone this repository into your desired directory
 2. Open **Unity Hub**
 3. In the *Projects* tab, click **Add > Add project from disk**.
 4. Select the folder you extracted earlier.
